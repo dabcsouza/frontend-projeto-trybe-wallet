@@ -96,6 +96,13 @@ class Login extends React.Component {
             Entrar
           </button>
         </form>
+        <h3 style={{
+          width: '100%',
+          color: 'white',
+          fontSize: '10px',
+          textAlign: 'center',
+        }}>{ `para testar a aplicação digite um e-mail valido do tipo
+                user@domain.com e uma senha com mais de 6 caracteres` } </h3>
       </section>
     );
   }
