@@ -11,3 +11,5 @@
   * Conectar Redux aos componentes React
 
   * Criar actions assíncronas na sua aplicação React que faz uso de Redux.
+
+### Confira a aplicação em https://trybewalletds01.herokuapp.com/
